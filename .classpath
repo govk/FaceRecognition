@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="ArcFace/arcsoft-sdk-face-3.0.0.0.jar"/>
+	<classpathentry kind="lib" path="DB_Sqlite/sqlite-jdbc-3.27.2.1.jar"/>
+	<classpathentry kind="lib" path="lib_camera/bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="lib_camera/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="lib_camera/slf4j-api-1.7.9.jar"/>
+	<classpathentry kind="lib" path="lib_camera/slf4j-log4j12-1.7.9.jar"/>
+	<classpathentry kind="lib" path="lib_camera/webcam-capture-0.3.10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="DB_MySQL/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
